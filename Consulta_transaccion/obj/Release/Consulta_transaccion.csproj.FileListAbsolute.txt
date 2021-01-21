@@ -1,0 +1,8 @@
+C:\Documents and Settings\PIXEL\Mis documentos\Visual Studio 2008\Projects\Consulta_transaccion\Consulta_transaccion\bin\Release\Consulta_transaccion.exe
+C:\Documents and Settings\PIXEL\Mis documentos\Visual Studio 2008\Projects\Consulta_transaccion\Consulta_transaccion\bin\Release\Consulta_transaccion.pdb
+C:\Documents and Settings\PIXEL\Mis documentos\Visual Studio 2008\Projects\Consulta_transaccion\Consulta_transaccion\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\PIXEL\Mis documentos\Visual Studio 2008\Projects\Consulta_transaccion\Consulta_transaccion\obj\Release\Consulta_transaccion.Form1.resources
+C:\Documents and Settings\PIXEL\Mis documentos\Visual Studio 2008\Projects\Consulta_transaccion\Consulta_transaccion\obj\Release\Consulta_transaccion.Properties.Resources.resources
+C:\Documents and Settings\PIXEL\Mis documentos\Visual Studio 2008\Projects\Consulta_transaccion\Consulta_transaccion\obj\Release\Consulta_transaccion.csproj.GenerateResource.Cache
+C:\Documents and Settings\PIXEL\Mis documentos\Visual Studio 2008\Projects\Consulta_transaccion\Consulta_transaccion\obj\Release\Consulta_transaccion.exe
+C:\Documents and Settings\PIXEL\Mis documentos\Visual Studio 2008\Projects\Consulta_transaccion\Consulta_transaccion\obj\Release\Consulta_transaccion.pdb
