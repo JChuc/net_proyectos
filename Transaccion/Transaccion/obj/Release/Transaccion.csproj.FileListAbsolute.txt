@@ -1,0 +1,5 @@
+C:\Documents and Settings\PIXEL\Mis documentos\Visual Studio 2008\Projects\Transaccion\Transaccion\bin\Transaccion.dll
+C:\Documents and Settings\PIXEL\Mis documentos\Visual Studio 2008\Projects\Transaccion\Transaccion\bin\Transaccion.pdb
+C:\Documents and Settings\PIXEL\Mis documentos\Visual Studio 2008\Projects\Transaccion\Transaccion\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\PIXEL\Mis documentos\Visual Studio 2008\Projects\Transaccion\Transaccion\obj\Release\Transaccion.dll
+C:\Documents and Settings\PIXEL\Mis documentos\Visual Studio 2008\Projects\Transaccion\Transaccion\obj\Release\Transaccion.pdb
