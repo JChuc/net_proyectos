@@ -1,0 +1,13 @@
+<publishData>
+  <publishTarget publishUrl="C:\inetpub\wwwroot\transact\">
+    <file relUrl="bin/Transaccion.pdb" publishTime="05/21/2015 13:55:00" />
+    <file relUrl="bin/Transaccion.dll" publishTime="05/21/2015 13:55:00" />
+    <file relUrl="Web.config" publishTime="05/20/2015 17:27:58" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\inetpub\wwwroot\">
+    <file relUrl="transact.asmx" publishTime="04/22/2015 17:50:50" />
+    <file relUrl="bin/Transaccion.pdb" publishTime="04/23/2015 13:18:43" />
+    <file relUrl="bin/Transaccion.dll" publishTime="04/23/2015 13:18:43" />
+    <file relUrl="Web.config" publishTime="04/23/2015 12:40:35" />
+  </publishTarget>
+</publishData>
